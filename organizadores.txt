@@ -2,4 +2,3 @@
 "Paco" 
 "Herminia"
 "Jose" nuevo organizador
-"Cambio accidental" 
